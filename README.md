@@ -1,6 +1,6 @@
 # nft_app
 
-A new Flutter project.
+![Screen Shot 2021-10-02 at 7 13 09 PM](https://user-images.githubusercontent.com/38845275/136296617-d53897e0-c269-45ed-9d45-544bb166cdf1.png)
 
 ## Getting Started
 
